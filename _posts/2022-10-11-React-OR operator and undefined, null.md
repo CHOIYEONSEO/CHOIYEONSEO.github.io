@@ -1,6 +1,6 @@
 ---
-title: "||(OR 연산자)와 undefined, null의 관계"
-excerpt: "React에서 ||(OR 연산자)와 undefined, null과의 관계 이해하기"
+title: "OR 연산자와 undefined, null의 관계"
+excerpt: "React에서 OR 연산자와 undefined, null과의 관계 이해하기"
 
 categories:
   - React
@@ -15,3 +15,5 @@ toc_sticky: true
 date: 2022-10-11
 last_modified_at: 2022-10-11
 ---
+
+OR 연산자 = \|\|
