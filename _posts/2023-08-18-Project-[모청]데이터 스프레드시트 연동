@@ -1,0 +1,20 @@
+---
+title: "[모청] 데이터 스프레드시트 연동"
+excerpt: "Youtube [Google 스프레드시트] 웹 페이지 데이터 실시간 연동하기"
+
+categories:
+  - Project
+tags:
+  - [Project, 모청, Project1]
+
+permalink: /Project/20230818/
+
+toc: true
+toc_sticky: true
+
+date: 2023-08-18
+last_modified_at: 2023-08-18
+---
+
+## 데이터 스프레드시트 연동
+https://theirmood.com/card-attend/P9OLZ8kReP : 참석여부 raw 데이터
