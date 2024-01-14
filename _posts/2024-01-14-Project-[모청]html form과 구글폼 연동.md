@@ -1,6 +1,6 @@
 ---
 title: "[모청] html form과 구글폼 연동해서 스프레드시트에 데이터 저장"
-excerpt: "첫번째 요구사항 2차"
+excerpt: "첫번째 요구사항 2차 -> 완료"
 
 categories:
   - Project
