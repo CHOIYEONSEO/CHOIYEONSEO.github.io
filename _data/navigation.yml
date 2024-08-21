@@ -20,9 +20,9 @@ main:
 categories:
   - title: "TIL"
     url: /categories/TIL/
+  - title: "Test"
+    url: /categories/Test/
   - title: "React"
     url: /categories/React/
-  - title: "Categories3"
-    url: /categories/categories3/
   - title: "Project"
     url: /categories/Project/
