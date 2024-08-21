@@ -1,0 +1,19 @@
+---
+title: "[기억하자]"
+excerpt: "코딩테스트"
+categories:
+  - Test
+tags:
+  - [Test]
+
+permalink: /Test/20240821/
+
+toc: true
+toc_sticky: true
+
+date: 2024-8-21
+last_modified_at: 2024-8-21
+---
+
+* N, M 헷갈리지 않도록 하기
+* 1초는 1억번 반복 정도이다
