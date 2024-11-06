@@ -1,7 +1,7 @@
 ---
 title: "Error Storage"
 layout: category
-permalink: /categories/Error_Storage/
+permalink: /categories/Error/
 author_profile: true
 taxonomy: Test
 sidebar:
